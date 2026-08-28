@@ -21,7 +21,7 @@ def convert_to_hex_func():
 	global mac_addr
 
 	args_func()
-	print("Current MAC: ", gma())
+	print("Old MAC: ", gma())
 
 	mac_addr = mac_addr.split(":")
 	mac_addr = "".join(mac_addr)
