@@ -1,23 +1,24 @@
 # MAC Address Changer
 
 A lightweight command-line tool written in Python that changes the MAC address of network interfaces on Linux systems using low-level sockets and ioctl system calls.
-Requirements
 
-    Linux Operating System (Required due to low-level system calls and SIOCSIFHWADDR).
+Requirements:
 
-    Python 3
+    - Linux Operating System (Required due to low-level system calls and SIOCSIFHWADDR).
 
-    Root (Administrator) Privileges
+    - Python 3
 
-Installation
+    -  Root (Administrator) Privileges
 
-    Clone or download the repository:
+Installation:
+
+    1.Clone or download the repository:
     Bash
 
     git clone https://github.com/username/repository-name.git
     cd repository-name
 
-    Install the required Python library:
+    2.Install the required Python library:
     Bash
 
     pip install getmac
