@@ -11,8 +11,7 @@ Requirements:
 -  Root (Administrator) Privileges
 
 Installation:
-
-    1.Clone or download the repository:
+1.Clone or download the repository:
 ```Bash
 git clone https://github.com/D43eM0N/Mac-changer-without-tools.git
 cd Mac-changer-without-tools
