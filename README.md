@@ -13,10 +13,10 @@ Requirements:
 Installation:
 
     1.Clone or download the repository:
-    ```Bash
-        git clone https://github.com/D43eM0N/Mac-changer-without-tools.git
-        cd Mac-changer-without-tools
-    ```
+```Bash
+git clone https://github.com/D43eM0N/Mac-changer-without-tools.git
+cd Mac-changer-without-tools
+```
     2.Install the required Python library:
     ```Bash
         pip install getmac
