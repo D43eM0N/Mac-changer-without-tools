@@ -26,7 +26,6 @@ def convert_to_hex_func():
 	mac_addr = mac_addr.split(":")
 	mac_addr = "".join(mac_addr)
 	byte_mac = bytes.fromhex(mac_addr)
-	print("Hex Format MAC: ", byte_mac)
 
 	return byte_mac
 
